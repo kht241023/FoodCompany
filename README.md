@@ -37,7 +37,7 @@ FLUSH PRIVILEGES;
 
 ### 2.1 데이터베이스 선택
 ```sql
-USE storedb;
+USE testdb;
 ```
 
 ### 2.2 `drinks` (음료 테이블) 생성
